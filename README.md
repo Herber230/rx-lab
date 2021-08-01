@@ -6,6 +6,9 @@ Example repository about RXJS basic concepts
 
 To use this repo, there is necessary only install dependencies and start the app
 
-> npm install
-
-> npm start
+```
+npm install
+```
+```
+npm start
+```
